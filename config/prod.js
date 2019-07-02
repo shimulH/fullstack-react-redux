@@ -1,7 +1,8 @@
 module.exports = {
-  googleClientID: process.env.GOOGLE_CLIENT_ID,
-  googleClientSecret: process.env.GOOGLE_CLIENT_SECRET,
+  googleClientID:
+    "1064369858124-1pntvgj6480lm3s0ohigg6ke7le63b3g.apps.googleusercontent.com",
+  googleClientSecret: "d8v2WYIXYtKFyfxPPlwGMH3T",
   mongoURI:
     "mongodb+srv://shimul:shimul07@cluster0-aweic.mongodb.net/test?retryWrites=true&w=majority",
-  cookieKey: process.env.COOKIE_KEY
+  cookieKey: "akbdnkfjjafuavgnejeknknlnlnmckKJKB"
 };
